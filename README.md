@@ -82,7 +82,7 @@ python3 ./insidergm.py
 権利的にマズいところがあったら即対応しますのでご連絡ください。
 
 ## 作者
-TiS @tis_atisie
+[TiS @tis_atisie](https://twitter.com/tis_atisie)
 
 ## 謝辞
-defaultの答えを用意していただいたチャリキさん([@bike_chari_](https://twitter.com/bike_chari_))ありがとうございました。
+defaultの答えを用意していただいた[チャリキさん(@bike_chari_](https://twitter.com/bike_chari_))ありがとうございました。
