@@ -26,6 +26,13 @@ https://twicomi.com/manga/kotake_spla/1138774359282147328
 - Discord botアカウント必要 
 
 ## 使い方
+### discordパッケージのインストール
+discordパッケージを必要とします。
+インストールされていない場合は下記のコマンドでインストールしてください。
+```
+python -m pip install discord
+```
+
 ### discord botの準備
 [discordBotの取得方法](https://qiita.com/1ntegrale9/items/cb285053f2fa5d0cccdf)
 
